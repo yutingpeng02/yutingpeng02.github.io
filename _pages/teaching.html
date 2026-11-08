@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% if post.permalink != '/teaching/2023-operating-systems' %}{% continue %}{% endif %}
+  {% include archive-single.html %}
+{% endfor %}
