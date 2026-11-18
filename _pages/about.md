@@ -14,7 +14,7 @@ redirect_from:
 <span id="about-me" class="anchor-target"></span>
 <h1 class="section-title"><span aria-hidden="true">👩‍💻</span> About Me</h1>
 
-I am a master's student in Computer Science and Technology at the University of Chinese Academy of Sciences, jointly working with the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I am privileged to be advised by [Prof. Xilin Chen](https://vipl.ict.ac.cn/people/_xlchen/) and to collaborate closely with [Dr. Yuecong Min](https://ycmin95.github.io/) in the [Visual Information Processing and Learning (VIPL) Group](https://vipl.ict.ac.cn/en/). I received my bachelor's degree in Computer Science and Technology through the Honors Program at Nankai University, where I was fortunate to be mentored by [Prof. Mingming Cheng](https://mmcheng.net/cmm/).
+I am a master's student in Computer Science and Technology at the University of Chinese Academy of Sciences, jointly working with the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I am privileged to be advised by [Prof. Xilin Chen](https://vipl.ict.ac.cn/people/_xlchen/) and to collaborate closely with [Dr. Yuecong Min](https://ycmin95.github.io/) in the [Visual Information Processing and Learning (VIPL) Group](https://vipl.ict.ac.cn/en/). I received my bachelor's degree in Computer Science and Technology, *Summa Cum Laude*, from Nankai University, where I was fortunate to be mentored by [Prof. Mingming Cheng](https://mmcheng.net/cmm/).
 
 My research interests include **multimodal perception, embodied AI, and human–robot interaction**. I am interested in developing robust and efficient intelligent systems that can better understand people and interact naturally with the world.
 
